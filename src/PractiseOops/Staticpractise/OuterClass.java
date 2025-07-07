@@ -1,4 +1,4 @@
-package PractiseOops;
+package PractiseOops.Staticpractise;
 
 /***static class OuterClass2{
 } -> Here static class is not allowed because if its static it should belongs to some class directly outer class cannot be static
