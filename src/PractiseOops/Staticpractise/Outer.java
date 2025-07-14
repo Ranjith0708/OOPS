@@ -19,7 +19,7 @@ public class Outer {
 //        Outer.Sample sample = new Outer.Sample(); //When its non static class u cant
         Outer outer = new Outer();
         Outer.Sample outerSam = outer.new Sample(); //this is the way of creating object of non static inner class
-        
+
 
     }
 }
